@@ -1,0 +1,2 @@
+name,company,location,email,strategies,property_types,min_price,max_price,cash_buyer,source,verification_status
+Example Investor,Example Investments,"Cleveland, Ohio",investor@example.com,Fix & Flip,Single Family,80000,150000,true,User Import,UNVERIFIED

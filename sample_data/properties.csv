@@ -1,0 +1,2 @@
+address,city,state,zip_code,property_type,bedrooms,bathrooms,sqft,asking_price,source,source_url,verification_status
+123 Main St,Cleveland,Ohio,44108,Single Family,3,2,1500,120000,Manual,,UNVERIFIED
